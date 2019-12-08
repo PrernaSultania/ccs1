@@ -1,0 +1,44 @@
+.logo {
+    height: 50px;
+    margin: 35px;
+}
+.colour1 {
+    background-color: #202020;
+    /* background-image: url('grid2.png'); */
+    height: 100%;
+    width: 100%;
+  }
+  h2 {
+    color: #ffa41a !important;
+    margin: 24.37rem 0px -0.576rem 245px !important;
+    text-align: center;
+  }
+  p{
+      color: #ffffff !important;
+      margin: 22.37rem 0px -0.576rem 245px !important;
+      text-align: center;
+  }
+  .container2 {
+    margin: 22.37rem 0px -0.576rem 245px !important;
+    text-align: center;
+    
+  }
+  .container1 {
+    height: auto;
+    padding: 5%;
+    margin: auto !important;
+  }
+  @media screen and (max-width: 600px){
+    .logo2{
+      height: 50px !important;
+      width: 300px !important;
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+  }
+  @media screen and (max-width: 992px){
+    .logo2{
+      width: 250px !important;
+      height: 252px !important;
+    }
+  }
